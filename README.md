@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Parsyfall
 - 👀 I’m interested in volleyball, coding, video games
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate in the creation of games
 - 📫 How to reach me, "You can't"
 
 <!---
